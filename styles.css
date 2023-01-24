@@ -114,10 +114,10 @@ li {
     align-items: center;
 }
 
-li .box {
-    padding: 40px;
+li .box img{
+    padding: 2px;
     border: solid #3882F6;
-    max-width: 40px;
+    max-width: 100px;
     border-radius: 10px;
 }
 
